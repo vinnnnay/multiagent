@@ -1,0 +1,137 @@
+# =========================
+# CORE LANGCHAIN PACKAGES
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+
+# =========================
+# OPENAI
+# =========================
+openai
+tiktoken
+
+# =========================
+# GOOGLE GEMINI
+# =========================
+langchain-google-genai
+google-generativeai
+
+# =========================
+# TAVILY SEARCH TOOL
+# =========================
+tavily-python
+
+# =========================
+# WEB SCRAPING
+# =========================
+beautifulsoup4
+bs4
+requests
+lxml
+html5lib
+
+# =========================
+# ENVIRONMENT VARIABLES
+# =========================
+python-dotenv
+
+# =========================
+# DATA VALIDATION
+# =========================
+pydantic
+
+# =========================
+# ASYNC SUPPORT
+# =========================
+aiohttp
+httpx
+
+# =========================
+# LCEL / RUNNABLE SUPPORT
+# =========================
+tenacity
+
+# =========================
+# REACT AGENT + TOOL CALLING
+# =========================
+typing-extensions
+
+# =========================
+# VECTOR DATABASE / MEMORY
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# DOCUMENT LOADERS
+# =========================
+pypdf
+unstructured
+
+# =========================
+# DATA PROCESSING
+# =========================
+numpy
+pandas
+
+# =========================
+# API SERVER
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# WEB APP / UI
+# =========================
+streamlit
+
+# =========================
+# FRONTEND CONNECTION
+# =========================
+flask
+flask-cors
+
+# =========================
+# LOGGING / DEBUGGING
+# =========================
+rich
+loguru
+
+# =========================
+# TESTING
+# =========================
+pytest
+
+# =========================
+# SECURITY
+# =========================
+cryptography
+
+# =========================
+# FAST JSON
+# =========================
+orjson
+
+# =========================
+# OPTIONAL STREAMING
+# =========================
+sse-starlette
+
+# =========================
+# DATABASE
+# =========================
+sqlalchemy
+
+# =========================
+# CACHE
+# =========================
+redis
+
+# =========================
+# OBSERVABILITY / TRACING
+# =========================
+langsmith
